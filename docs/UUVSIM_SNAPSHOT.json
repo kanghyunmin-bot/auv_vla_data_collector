@@ -1,0 +1,19 @@
+{
+  "source_repository": "kanghyunmin-bot/ROS2-mujoco-UUVsimulator",
+  "source_commit": "6afe8dd",
+  "scope": "Source working tree snapshot, excluding datasets, model weights, GUI and PPO; includes real-branch integrity fixes",
+  "files": {
+    "kmu26_auv_vla_data_collector/deployment_config.py": "2de79f2224a6ad77ef53989bd2dab0ba65a22752085ae71da6cd8b3d38b1ffab",
+    "kmu26_auv_vla_data_collector/weighted_sampling.py": "4ca4fa0bd66c280e7b5422433a8d692907834c4481d66456aa5704cc19558114",
+    "kmu26_auv_vla_data_collector/training_input.py": "cb24b36ce6dec04372f4436b1b0fa0954d76fd65f8f88902cd38a9c685260958",
+    "kmu26_auv_vla_data_collector/transfer_config.py": "ec83ff1b230009b0e67430b51af04c7578e269e5aa431988a82b2c1778f6ff09",
+    "kmu26_auv_vla_data_collector/visual_importance.py": "579fb29c2818266d1052f3e0a402665734abbc880315a47ba809738696fb4924",
+    "kmu26_auv_vla_data_collector/collector.py": "1fa7ae61e8ee6b282840c81a90e7b0caff9111bc5d436849dcdaf07a35ad9071",
+    "tools/serve_transfer.py": "f3d9975b9c534f8c19f4261bffa42c348c256315547beedc7eccaa5ed3553c19",
+    "tools/check_u0_loader.py": "2735be4c4e7eb1989d12b5ae30df7f10c576c7e6a1a1b8cecb4bc54632e0a75e",
+    "tools/create_acquisition_context.py": "7c107bdbab3370351812f0478b34890e1899f10a1feeb5da2110886b160afc4a",
+    "tools/finetune_transfer.py": "60364885c0d2cdaf60b4ac80cba05543c62f175933c8735391473b674fe223d5",
+    "tools/test_u0_transfer_input.py": "3644ff2f38addfbf890ca67172181c776d86b320b97834eae4de4dc4d87b9911",
+    "tools/measure_input_timing.py": "0f8bb6cd0a42737cb1b215104e97e0968f6c8b580850b2ab2b7ee7c3f84e43ed"
+  }
+}

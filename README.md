@@ -163,3 +163,9 @@ contract to an inference adapter without publishing RC or requiring an RC source
 See [real-data fixes and migration](docs/REAL_DATA_FIXES.md) for camera/DVL validity,
 interrupted recording handling, export checks, and the explicit task-recording
 settings. Simulator-only integration is maintained separately on `uuvsim`.
+
+## This is the `uuvsim` branch
+
+See [simulator integration](docs/UUVSIM.md). Real-vehicle fixes are reviewed on the
+separate `codex/real-data-integrity` branch. Simulator PWM settings must not be
+copied into physical-vehicle configuration.
